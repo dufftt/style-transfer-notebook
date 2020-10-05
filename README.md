@@ -1,5 +1,5 @@
 # style-transfer-notebook
-A Neural Style Transfer Jupyter Notebook using vgg19_bn
+A Neural Style Transfer Jupyter Notebook using vgg19_bn and the algorithm used here is taken from Leon A. Gatys, Alexander S. Ecker and Matthias Bethge (arXiv:1508.06576).
 ## Explanation
 You can know more about my code at [medium](https://medium.com/@duft/a-simple-neural-style-transfer-14671a5657f4)
 ## Contributing
